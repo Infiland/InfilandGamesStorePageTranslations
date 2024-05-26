@@ -10,7 +10,7 @@
     "app[content][sysreqs][mac][min][graphics]": "Desconocido",
     "app[content][sysreqs][mac][min][soundcard]": "",
     "app[content][sysreqs][mac][min][vrsupport]": "",
-    "app[content][sysreqs][mac][min][notes]": "Jessie, necesitamos una VM, Jessie",
+    "app[content][sysreqs][mac][min][notes]": "Jesse, necesitamos una VM, Jesse",
     "app[content][sysreqs][mac][req][osversion]": "",
     "app[content][sysreqs][mac][req][processor]": "",
     "app[content][sysreqs][mac][req][graphics]": "",

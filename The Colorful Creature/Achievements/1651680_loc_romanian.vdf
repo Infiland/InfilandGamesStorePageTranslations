@@ -29,7 +29,7 @@
 		"NEW_ACHIEVEMENT_1_19_DESC"	"Atinge Vârful Auriu!"
 		"NEW_ACHIEVEMENT_1_20_NAME"	"Stai... acest vârf este ciudat."
 		"NEW_ACHIEVEMENT_1_20_DESC"	"Atinge Vârful Ciudat!"
-		"NEW_ACHIEVEMENT_1_21_NAME"	" Prima Pălărie!"
+		"NEW_ACHIEVEMENT_1_21_NAME"	"Prima Pălărie!"
 		"NEW_ACHIEVEMENT_1_21_DESC"	"Cumpără-ți prima pălărie!"
 		"NEW_ACHIEVEMENT_1_24_NAME"	"Completist de Skin-uri"
 		"NEW_ACHIEVEMENT_1_24_DESC"	"Adună toate skin-urile din joc!"
@@ -108,7 +108,7 @@
 		"NEW_ACHIEVEMENT_5_3_NAME"	"Ars cu Torța!"
 		"NEW_ACHIEVEMENT_5_3_DESC"	"Aprinde-te cu torțele!"
 		"NEW_ACHIEVEMENT_5_4_NAME"	"Iad Infinit Absolut"
-		"NEW_ACHIEVEMENT_5_4_DESC"	"Reach the maximum difficulty possible in Endless Run!"
+		"NEW_ACHIEVEMENT_5_4_DESC"	"Ajunge la dificultatea maximă posibilă în Modul Infinit!"
 		"NEW_ACHIEVEMENT_5_6_NAME"	"Prima Moarte!"
 		"NEW_ACHIEVEMENT_5_6_DESC"	"Mori pentru prima dată!"
 		"NEW_ACHIEVEMENT_5_10_NAME"	"Viața mea chiar este așa?"
@@ -202,6 +202,6 @@
 		"NEW_ACHIEVEMENT_9_5_NAME"	"JACKPOT!"
 		"NEW_ACHIEVEMENT_9_5_DESC"	"Prinde 250 de credite de la roată"
 		"NEW_ACHIEVEMENT_9_6_NAME"	"World Wide Web"
-		"NEW_ACHIEVEMENT_9_6_DESC"	"Check out any of the socials!"
+		"NEW_ACHIEVEMENT_9_6_DESC"	"Verifică oricare dintre rețelele sociale!"
 	}
 }

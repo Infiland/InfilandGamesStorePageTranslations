@@ -3,7 +3,7 @@
 	"Language"	"hungarian"
 	"Tokens"
 	{
-		"NEW_ACHIEVEMENT_1_0_NAME"	" kalandod kezdetét"
+		"NEW_ACHIEVEMENT_1_0_NAME"	"A kalandod kezdete"
 		"NEW_ACHIEVEMENT_1_0_DESC"	"Végezd el az első szintet"
 		"NEW_ACHIEVEMENT_1_6_NAME"	"Százhuszonöt"
 		"NEW_ACHIEVEMENT_1_6_DESC"	"Végezd el 100 szintet"
@@ -200,7 +200,7 @@
 		"NEW_ACHIEVEMENT_9_4_NAME"	"Körbe-körbe"
 		"NEW_ACHIEVEMENT_9_4_DESC"	"Találj meg egy rejtett utat az 5. Világban"
 		"NEW_ACHIEVEMENT_9_5_NAME"	"JACKPOT!"
-		"NEW_ACHIEVEMENT_9_5_DESC"	" kapj 250 credit-et a kerékből"
+		"NEW_ACHIEVEMENT_9_5_DESC"	"Kapj 250 kreditet a kerékből"
 		"NEW_ACHIEVEMENT_9_6_NAME"	"World Wide Web"
 		"NEW_ACHIEVEMENT_9_6_DESC"	"Nézz meg bármelyik közösségi oldalt!"
 	}

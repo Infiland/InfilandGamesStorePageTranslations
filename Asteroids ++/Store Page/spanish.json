@@ -17,7 +17,7 @@
     "app[content][sysreqs][mac][req][soundcard]": "",
     "app[content][sysreqs][mac][req][vrsupport]": "",
     "app[content][sysreqs][mac][req][notes]": "",
-    "app[content][sysreqs][windows][min][osversion]": "Windows 7 de 64 bits",
+    "app[content][sysreqs][windows][min][osversion]": "Windows 7 (64-Bits)",
     "app[content][sysreqs][windows][min][processor]": "Procesador Intel® Core™ i3-2300",
     "app[content][sysreqs][windows][min][graphics]": "Intel® HD Graphics 520 (o una tarjeta gráfica con al menos 128MB de VRAM)",
     "app[content][sysreqs][windows][min][soundcard]": "",
